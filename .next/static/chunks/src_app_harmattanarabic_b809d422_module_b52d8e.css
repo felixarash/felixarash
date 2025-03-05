@@ -1,0 +1,25 @@
+/* [project]/src/app/harmattanarabic_b809d422.module.css [app-client] (css) */
+@font-face {
+  font-family: harmattanArabic;
+  src: url("../media/Harmattan_Regular-s.p.eb1d47ec.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: harmattanArabic Fallback;
+  src: local(Arial);
+  ascent-override: 134.73%;
+  descent-override: 82.29%;
+  line-gap-override: 0.0%;
+  size-adjust: 78.5%;
+}
+
+.harmattanarabic_b809d422-module__L7C2Na__className {
+  font-family: harmattanArabic, harmattanArabic Fallback;
+}
+
+.harmattanarabic_b809d422-module__L7C2Na__variable {
+  --font-arabic: "harmattanArabic", "harmattanArabic Fallback";
+}
+
+/*# sourceMappingURL=src_app_harmattanarabic_b809d422_module_b52d8e.css.map*/
